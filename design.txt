@@ -1,0 +1,31 @@
+Eng. da Computação 2° Semestre
+Vitória Carolina G. dos Santos - 1903793
+Bruna Barreto Ribeiro - 1903592
+
+A aplicação deve conter:
+
+-Para a solicitação do usuário:
+   → O usuário deverá informar seu ponto de partida para que o veiculo o encontre.
+
+   → O usuário deverá informar o local a qual deseja ir (Limite de 40KM por viagem resultando na cobrança de 0,25 por KM).
+
+   → A aplicação deve limitar o usuário a um raio de 40KM a partir de seu ponto de partida informando a cobrança por cada quilometro a mais.
+
+   → O usuário efetuará o pagamento Online no momento que efetuar a requisição da viagem.
+
+-Para o veiculo:
+    → Fará uma viagem por solicitação;
+
+    → Seguira a rota traçada pela aplicação;
+
+    → Em caso de falhas do sistema deve parar imediatamente;
+
+-Para gerenciamento da empresa X:
+    → Listará as viagens feitas por cada carro a partir do dia(as) escolhido pelo solicitante;
+
+    → Deverá trazer os detalhes de cada viagem, sendo:
+   	- Nome do passageiro
+    	- Ponto de partida
+    	- Ponto de chegada
+    	- Quilometragem percorrida
+    	- Tempo de duração da viagem

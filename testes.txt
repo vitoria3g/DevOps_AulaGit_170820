@@ -1,0 +1,17 @@
+Eng. da Computação 2° Semestre
+Vitória Carolina G. dos Santos - 1903793
+Bruna Barreto Ribeiro - 1903592
+
+Para que os testes sejam feitos a aplicação contará com duas etapas:
+
+1° ETAPA TESTE - ANALISTAS:
+	→ A cada funcionalidade feita o desenvolvedor deverá testar o que foi feito;
+	→ Após primeira analise o analista de qualidade deverá reavaliar se o sistema atende o que foi planejado e deverá testar o que foi desenvolvido, aprovando ou não;
+
+2° ETAPA TESTE - APLICAÇÃO:
+	→ Testes automáticos:
+		- Cadastro de passageiro;
+		- Solicitação de viagens;
+		- Calculo do valor de cada viagem por KM;
+		- Listagem de viagens por veículos;
+		- Listagem de viagens por veículos e passageiros;

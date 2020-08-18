@@ -1,0 +1,9 @@
+Eng. da Computação 2° Semestre
+Vitória Carolina G. dos Santos - 1903793
+Bruna Barreto Ribeiro - 1903592
+
+→ Todas as aplicações serão instaladas no servidor local da empresa, tendo seu backup feito a cada meia hora em um servidor separado para backup´s.
+
+→ O aplicativo mobile será disponibilizado nas plataformas play Store e app Store.
+
+→ A aplicação web deverá ser acessada pelo endereço disponibilizado pela contratada e será acessado apenas localmente;

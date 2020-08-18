@@ -1,0 +1,42 @@
+Eng. da Computação 2° Semestre
+Vitória Carolina G. dos Santos - 1903793
+Bruna Barreto Ribeiro - 1903592
+
+Visando a necessidade do cliente e analisando o cenário atual foram escolhidas as seguintes tecnologias:
+
+-Linguagem de programação: Javascript
+    O js é uma linguagem fácil de ser trabalhada além de estar presente nas grandes empresas. 
+    Atuará no back end, mobile e web.
+
+-Para o back end:
+	→ Cadastros: passageiros, viagens, veículos;
+
+	→ Listagem: viagens por veiculo, detalhes de cada viagem;
+
+	→ Delete e Update: Veículos;
+
+-Para aplicativo mobile:
+   Será desenvolvido em react native e conterá:
+
+	→ Mapa para que o usuário informe seu ponto de partida e ponto de chegada;
+
+	→ Tela de cadastro para que ele favorite os percursos já feitos, altere ou cadastre seus dados pessoais;
+
+	→ Calculo do valor da viagem visando os requisitos citados no design. 
+
+-Para aplicação web:
+   Será desenvolvido em react e conterá:
+
+	→ Tela de listagem de todos os veículos cadastrados;
+
+	→ Tela de detalhes da viagem de acordo com veiculo e viagem selecionados;
+
+	→ Tela para cadastro/edição de veículos da empresa;
+
+-Os testes serão desenvolvidos para atuar diretamente na aplicação;
+
+-Controle de versão:
+
+	→ Para controle de versão das aplicações será usado o git;
+
+-A aplicação deverá monitorar e gerar logs a cada erro gerado.

@@ -1,0 +1,14 @@
+Eng. da Computação 2° Semestre
+Vitória Carolina G. dos Santos - 1903793
+Bruna Barreto Ribeiro - 1903592
+
+A empresa X solicitou a criação de um sistema capaz de gerenciar as viagens de seus veículos voadores,
+para isso é necessário que a aplicação atenda os seguintes itens:
+
+→ Solicitação do usuário (para onde ele quer ir);
+
+→ Caminho que o veiculo percorrerá do ponto de partida do usuário até seu ponto de chegada; 
+
+→ Calculo do valor da viagem;
+
+→ Gerenciamento das viagens feitas por período de dia(as);
